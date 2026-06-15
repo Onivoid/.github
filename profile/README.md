@@ -1,107 +1,160 @@
-# Hi there, I'm Onivoid 👋
+```
+ ██████╗ ███╗   ██╗██╗██╗   ██╗ ██████╗ ██╗██████╗ 
+██╔═══██╗████╗  ██║██║██║   ██║██╔═══██╗██║██╔══██╗
+██║   ██║██╔██╗ ██║██║██║   ██║██║   ██║██║██║  ██║
+██║   ██║██║╚██╗██║██║╚██╗ ██╔╝██║   ██║██║██║  ██║
+╚██████╔╝██║ ╚████║██║ ╚████╔╝ ╚██████╔╝██║██████╔╝
+ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═══╝   ╚═════╝ ╚═╝╚═════╝ 
+```
+
+## 🚀 Full-Stack Developer | React × Tauri Enthusiast | Creative Problem Solver
+
+Welcome to my digital playground! I'm a passionate developer who loves building elegant, performant applications across web and desktop platforms.
+
+---
+
+## 🛠️ Tech Stack
+
+<table>
+<tr>
+<td width="50%">
+
+**Frontend & Web**
+- React & Next.js
+- TypeScript
+- TailwindCSS
+- Vue.js
+- JavaScript
+
+</td>
+<td width="50%">
+
+**Desktop & Tools**
+- Tauri
+- Electron
+- Rust Integration
+- Node.js
+- CLI Tools
+
+</td>
+</tr>
+<tr>
+<td>
+
+**Backend & Data**
+- Python
+- FastAPI
+- MySQL & SQLite
+- RESTful APIs
+- Socket.io
+
+</td>
+<td>
+
+**Build & DevOps**
+- Webpack
+- Vite
+- Gulp
+- Git
+- GitHub Actions
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📈 Expertise Level
 
 ```
-A Full-Stack Developer passionate about modern web technologies, 
-desktop applications, and creative solutions.
+React & Frontend Development    ████████████████████░ 95%
+Tauri & Desktop Apps           ████████████████████░ 95%
+TypeScript                     ███████████████████░  90%
+Full-Stack Development         ███████████████████░  90%
+Rust Integration               █████████████████░    85%
+Python & Backend               █████████████████░    85%
+UI/UX Design & Styling         ████████████████░     80%
+DevOps & Deployment            ███████████████░      75%
+Creative Problem Solving       ████████████████████░ 95%
 ```
 
 ---
 
-## 🎯 About Me
+## 🎯 Specialization
 
-I'm a versatile developer with a strong passion for building scalable web applications and desktop tools. With expertise spanning frontend frameworks, backend systems, and cross-platform development, I enjoy crafting elegant solutions to complex problems.
-
----
-
-## 💼 Core Expertise
-
-### Frontend
-- **React & React Ecosystem** - Proficient in building dynamic UIs with hooks, context, and modern state management
-- **Next.js** - Full-stack React framework for production-grade applications
-- **TypeScript** - Strong type safety practices across projects
-- **Styling** - TailwindCSS, SCSS, and custom styling solutions
-- **Vue.js** - Experience with component-based architecture
-
-### Desktop & Cross-Platform
-- **Tauri** - Building lightweight, secure desktop applications with Rust and Web technologies
-- **Electron** - Creating powerful desktop applications with Node.js
-- **Desktop CLI Tools** - Custom command-line utilities and automation
-
-### Backend & APIs
-- **Node.js / JavaScript** - Building RESTful APIs and server-side logic
-- **Python** - Data processing, automation, and specialized tools
-- **FastAPI** - Modern async Python framework
-- **SQL & Databases** - MySQL, SQLite, and database design
-
-### Other Technologies
-- **Discord Bots** - Creating interactive bot applications with Discord.js
-- **Webpack** - Advanced bundling and module configurations
-- **Gulp & Task Automation** - Build pipeline optimization
+- **🖥️ Desktop Applications** - Building cross-platform apps with Tauri that are fast, secure, and beautiful
+- **⚛️ Modern UI** - Creating responsive interfaces with React, TypeScript, and TailwindCSS
+- **⚡ Performance** - Optimizing applications with Rust backends and efficient bundling
+- **🔄 Real-Time Apps** - Implementing Socket.io and real-time communication features
+- **🤖 Automation Tools** - Developing specialized tools for various use cases (Star Citizen, Discord bots, etc.)
 
 ---
 
-## 🚀 Featured Projects
+## 💡 What I Build
 
-### **Web Applications**
-- **[NextGames](https://github.com/Onivoid/NextGames)** - Mini-games platform built with React and Next.js
-- **[Fatfood](https://github.com/Onivoid/Fatfood)** - Online fast-food ordering system
-- **[OnisoftAnalytics](https://github.com/Onivoid/OnisoftAnalytics)** - Personal analytics solution
+Desktop applications that **actually work**. Web apps that **don't slow down your browser**. Tools that **solve real problems**.
+
+Revolutionary? Maybe. Practical? Definitely.
+
+---
+
+## 🌟 Featured Projects
 
 ### **Desktop Applications**
-- **[Tauri-React-Boilerplate](https://github.com/Onivoid/Tauri-React-Boilerplate)** - Modern Tauri v2 + React 19 starter template
-- **[SCUTT](https://github.com/Onivoid/SCUTT)** - Star Citizen translation management tool
-- **[SCFR](https://github.com/Onivoid/SCFR)** - French translation installer for Star Citizen
-- **[MultiTool](https://github.com/Onivoid/MultiTool)** - Star Citizen companion toolbox
+- **[Tauri-React-Boilerplate](https://github.com/Onivoid/Tauri-React-Boilerplate)** - Production-ready Tauri v2 + React 19 starter
+- **[SCUTT](https://github.com/Onivoid/SCUTT)** - Star Citizen translation management platform
+- **[SCFR](https://github.com/Onivoid/SCFR)** - French localization tool for Star Citizen
+- **[MultiTool](https://github.com/Onivoid/MultiTool)** - Star Citizen companion application
+
+### **Web Applications**
+- **[NextGames](https://github.com/Onivoid/NextGames)** - Interactive mini-games platform with modern UI
+- **[OnisoftAnalytics](https://github.com/Onivoid/OnisoftAnalytics)** - Personal analytics solution
+- **[React_Chat](https://github.com/Onivoid/React_Chat_Client)** - Real-time chat application with Socket.io
 
 ### **Developer Tools & Templates**
-- **[TaurineCN](https://github.com/Onivoid/TaurineCN)** - Next.js + Tauri integration template
-- **[BoilerPlate_React-Webpack](https://github.com/Onivoid/BoilerPlate_React-Webpack)** - Production-ready React setup
+- **[BoilerPlate_React-Webpack](https://github.com/Onivoid/BoilerPlate_React-Webpack)** - Production-grade React setup
 - **[EleactJS](https://github.com/Onivoid/EleactJS)** - Electron + React boilerplate
-- **[Next-FastAPI-Template](https://github.com/Onivoid/Next-FastAPI-Template)** - Full-stack starter
-
-### **Real-Time Applications**
-- **[React_Chat_Client](https://github.com/Onivoid/React_Chat_Client)** - Real-time chat with Socket.io
-- **[React_Chat_Server](https://github.com/Onivoid/React_Chat_Server)** - Socket.io server implementation
-
-### **Discord Bots**
-- **[BotDiscord](https://github.com/Onivoid/BotDiscord)** - TypeScript-based Discord bot
-- **[FoxMusic-Bot.py](https://github.com/Onivoid/FoxMusic-Bot.py)** - Music bot for Discord
+- **[Next-FastAPI-Template](https://github.com/Onivoid/Next-FastAPI-Template)** - Full-stack starter kit
 
 ---
 
-## 📊 Technical Stack Overview
+## 🎨 Philosophy
 
-| Category | Technologies |
-|----------|---------------|
-| **Languages** | JavaScript, TypeScript, Python, Rust, SCSS, HTML |
-| **Frontend** | React, Next.js, Vue.js, TailwindCSS |
-| **Desktop** | Tauri, Electron |
-| **Backend** | Node.js, FastAPI, Express |
-| **Databases** | MySQL, SQLite |
-| **Tools & Build** | Webpack, Gulp, Vite, npm, Tauri |
-| **Integrations** | Discord.js, Socket.io, APIs |
+> Clean code is not about getting the machine to understand your commands.  
+> **Clean code is about how well you communicate your intentions to other developers.**
 
----
-
-## 🌱 Current Focus
-
-- 🔧 Building production-ready desktop applications with Tauri
-- 🎯 Mastering full-stack TypeScript development
-- 📱 Creating seamless cross-platform experiences
-- 🤖 Developing intelligent automation tools
+I believe in:
+- ✨ Writing maintainable, readable code
+- 🎯 Solving problems elegantly
+- 🚀 Building performant applications
+- 🤝 Open source collaboration
+- 💡 Continuous learning and improvement
 
 ---
 
-## 📫 Let's Connect
+## 📊 GitHub Stats
 
-- 💻 Explore my projects and repositories
+<div align="center">
+
+![Onivoid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Onivoid&show_icons=true&theme=tokyonight)
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+- 💻 Check out my [repositories](https://github.com/Onivoid?tab=repositories)
 - 🔗 Open to collaboration and interesting opportunities
-- 💡 Always interested in discussing modern web technologies
+- 💡 Always discussing modern tech and best practices
+- 🎮 Gaming enthusiast (Star Citizen, etc.)
 
 ---
 
 <div align="center">
 
-**Thanks for visiting! Feel free to explore my repositories and reach out if you'd like to collaborate.** ⭐
+### **Last Updated:** June 2026 | Still writing code, one commit at a time ⭐
+
+**Thanks for visiting! Feel free to explore and star any projects that interest you.**
 
 </div>
