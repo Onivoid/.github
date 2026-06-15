@@ -15,52 +15,13 @@ Welcome to my digital playground! I'm a passionate developer who loves building 
 
 ## 🛠️ Tech Stack
 
-<table>
-<tr>
-<td width="50%">
-
-**Frontend & Web**
-- ⚛️ React & Next.js
-- 🔵 TypeScript
-- 🎨 TailwindCSS
-- 💚 Vue.js
 - 🟨 JavaScript
-
-</td>
-<td width="50%">
-
-**Desktop & Tools**
-- 🦀 Tauri
-- 📦 Electron
-- 🔧 Rust Integration
-- 💚 Node.js
-- ⚙️ CLI Tools
-
-</td>
-</tr>
-<tr>
-<td>
-
-**Backend & Data**
+- 🔵 TypeScript
 - 🐍 Python
-- ⚡ FastAPI
-- 🗄️ MySQL & SQLite
-- 🔌 RESTful APIs
-- 🔄 Socket.io
-
-</td>
-<td>
-
-**Build & DevOps**
-- 📦 Webpack
-- ⚡ Vite
-- 🌊 Gulp
-- 🔀 Git
-- 🔄 GitHub Actions
-
-</td>
-</tr>
-</table>
+- 🦀 Rust
+- 💚 HTML/CSS
+- 🎨 SCSS
+- 📦 Vue
 
 ---
 
